@@ -37,13 +37,15 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 - CSS custom properties
 - Flexbox
 - CSS Grid
+- Background images CSS
 
 ### What I learned
 
+I learned to develop a static web page and the start of how to use CSS Grid. I discovered how to put multiple background images on my page and how to use them.
 
 ### Continued development
 
-
+i am delving deeper into the CSS Grid and Flexbox and will try a challenge with some JS next.
 
 ## Author
 
